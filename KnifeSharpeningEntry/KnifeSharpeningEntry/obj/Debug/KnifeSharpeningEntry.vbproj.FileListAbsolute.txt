@@ -1,0 +1,11 @@
+C:\Users\jims\source\repos\KnifeSharpeningEntry\KnifeSharpeningEntry\bin\Debug\KnifeSharpeningEntry.exe.config
+C:\Users\jims\source\repos\KnifeSharpeningEntry\KnifeSharpeningEntry\bin\Debug\KnifeSharpeningEntry.exe
+C:\Users\jims\source\repos\KnifeSharpeningEntry\KnifeSharpeningEntry\bin\Debug\KnifeSharpeningEntry.pdb
+C:\Users\jims\source\repos\KnifeSharpeningEntry\KnifeSharpeningEntry\bin\Debug\KnifeSharpeningEntry.xml
+C:\Users\jims\source\repos\KnifeSharpeningEntry\KnifeSharpeningEntry\obj\Debug\KnifeSharpeningEntry.vbprojResolveAssemblyReference.cache
+C:\Users\jims\source\repos\KnifeSharpeningEntry\KnifeSharpeningEntry\obj\Debug\KnifeSharpeningEntry.Resources.resources
+C:\Users\jims\source\repos\KnifeSharpeningEntry\KnifeSharpeningEntry\obj\Debug\KnifeSharpeningEntry.vbproj.GenerateResource.Cache
+C:\Users\jims\source\repos\KnifeSharpeningEntry\KnifeSharpeningEntry\obj\Debug\KnifeSharpeningEntry.vbproj.CoreCompileInputs.cache
+C:\Users\jims\source\repos\KnifeSharpeningEntry\KnifeSharpeningEntry\obj\Debug\KnifeSharpeningEntry.exe
+C:\Users\jims\source\repos\KnifeSharpeningEntry\KnifeSharpeningEntry\obj\Debug\KnifeSharpeningEntry.xml
+C:\Users\jims\source\repos\KnifeSharpeningEntry\KnifeSharpeningEntry\obj\Debug\KnifeSharpeningEntry.pdb

@@ -1,0 +1,10 @@
+C:\Users\jims\source\repos\KnifeSharpeningEntry\KnifeSharpeningEntry\bin\Release\KnifeSharpeningEntry.exe.config
+C:\Users\jims\source\repos\KnifeSharpeningEntry\KnifeSharpeningEntry\bin\Release\KnifeSharpeningEntry.exe
+C:\Users\jims\source\repos\KnifeSharpeningEntry\KnifeSharpeningEntry\bin\Release\KnifeSharpeningEntry.pdb
+C:\Users\jims\source\repos\KnifeSharpeningEntry\KnifeSharpeningEntry\bin\Release\KnifeSharpeningEntry.xml
+C:\Users\jims\source\repos\KnifeSharpeningEntry\KnifeSharpeningEntry\obj\Release\KnifeSharpeningEntry.Resources.resources
+C:\Users\jims\source\repos\KnifeSharpeningEntry\KnifeSharpeningEntry\obj\Release\KnifeSharpeningEntry.vbproj.GenerateResource.Cache
+C:\Users\jims\source\repos\KnifeSharpeningEntry\KnifeSharpeningEntry\obj\Release\KnifeSharpeningEntry.vbproj.CoreCompileInputs.cache
+C:\Users\jims\source\repos\KnifeSharpeningEntry\KnifeSharpeningEntry\obj\Release\KnifeSharpeningEntry.exe
+C:\Users\jims\source\repos\KnifeSharpeningEntry\KnifeSharpeningEntry\obj\Release\KnifeSharpeningEntry.xml
+C:\Users\jims\source\repos\KnifeSharpeningEntry\KnifeSharpeningEntry\obj\Release\KnifeSharpeningEntry.pdb
